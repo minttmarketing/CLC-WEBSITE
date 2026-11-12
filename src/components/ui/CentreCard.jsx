@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { getMapsUrl } from '../../data/centresData';
 
 export default function CentreCard({ centre, delay = 0 }) {

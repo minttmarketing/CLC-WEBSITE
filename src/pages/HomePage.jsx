@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+﻿import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useModal } from '../context/ModalContext';
 import { services } from '../data/servicesData';
@@ -267,9 +267,9 @@ export default function HomePage() {
               <span className="journey-badge-dot"></span>
               <span>Growing Together</span>
             </div>
-            <h2 className="journey-title">Every Child’s Journey Is Unique</h2>
+            <h2 className="journey-title">Every ChildΓÇÖs Journey Is Unique</h2>
             <p className="journey-subtitle">
-              Every child learns and develops differently. We work alongside families to provide personalised support that nurtures each child’s strengths, development, and potential.
+              Every child learns and develops differently. We work alongside families to provide personalised support that nurtures each childΓÇÖs strengths, development, and potential.
             </p>
           </div>
 
@@ -401,7 +401,7 @@ export default function HomePage() {
                   </span>
                   <div>
                     <strong>Clinic hours</strong>
-                    <span className="v">Monday to Saturday, 9:00 AM – 7:30 PM</span>
+                    <span className="v">Monday to Saturday, 9:00 AM ΓÇô 7:30 PM</span>
                   </div>
                 </li>
                 <li>

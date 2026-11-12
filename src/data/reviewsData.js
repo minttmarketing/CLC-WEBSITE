@@ -1,4 +1,4 @@
-export const reviews = [
+﻿export const reviews = [
   {
     id: 1,
     author: 'Priya S.',

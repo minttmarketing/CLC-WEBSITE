@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { useModal } from '../../context/ModalContext';
 
 export default function JourneyCard({ item }) {

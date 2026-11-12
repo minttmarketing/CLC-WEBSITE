@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { useModal } from '../context/ModalContext';
 import { teamMembers } from '../data/teamData';
 import TeamCard from '../components/ui/TeamCard';

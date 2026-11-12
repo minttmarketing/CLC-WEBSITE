@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 export default function TopBar() {
   return (
@@ -6,7 +6,7 @@ export default function TopBar() {
       <div className="container d-flex flex-wrap justify-content-between align-items-center gap-2">
         <div>
           <span className="me-3">
-            <i className="bi bi-clock"></i>Mon – Sat, 9:00 AM – 7:30 PM
+            <i className="bi bi-clock"></i>Mon ΓÇô Sat, 9:00 AM ΓÇô 7:30 PM
           </span>
           <span className="d-none d-lg-inline">
             <i className="bi bi-geo-alt-fill"></i>Centres in Mumbai, Navi Mumbai, Thane, Nagpur &amp; Nashik
