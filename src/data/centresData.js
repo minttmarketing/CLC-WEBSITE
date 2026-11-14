@@ -1,4 +1,4 @@
-﻿export const centres = [
+export const centres = [
   {
     id: 'nerul',
     name: 'Nerul Centre (Head Office)',
