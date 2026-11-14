@@ -20,6 +20,7 @@ import HowItWorksPage from './pages/HowItWorksPage';
 import CentresPage from './pages/CentresPage';
 import ReviewsPage from './pages/ReviewsPage';
 import ContactPage from './pages/ContactPage';
+import NotFoundPage from './pages/NotFoundPage';
 
 export default function App() {
   return (
@@ -42,7 +43,7 @@ export default function App() {
           <Route path="/centres" element={<CentresPage />} />
           <Route path="/reviews" element={<ReviewsPage />} />
           <Route path="/contact" element={<ContactPage />} />
-          <Route path="*" element={<HomePage />} />
+          <Route path="*" element={<NotFoundPage />} />
         </Routes>
 
         <Footer />

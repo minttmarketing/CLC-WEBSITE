@@ -6,7 +6,7 @@
     area: 'Navi Mumbai',
     address: 'Shop No. 4 & 5, Beside CSB Bank, Sai Sthan Apt, Sector 29, Nerul East, Navi Mumbai',
     phone: '+91 90044 60650',
-    timing: 'Mon ΓÇô Sat, 9:00 AM ΓÇô 7:30 PM',
+    timing: 'Mon – Sat, 9:00 AM – 7:30 PM',
     mapQuery: 'Child Learning Centre Nerul East, Shop No. 4 & 5 Sai Sthan Apt Sector 29 Navi Mumbai'
   },
   {
@@ -16,7 +16,7 @@
     area: 'Thane',
     address: 'Near Teen Hath Naka, Thane West, Maharashtra',
     phone: '+91 90044 60650',
-    timing: 'Mon ΓÇô Sat, 9:00 AM ΓÇô 7:30 PM',
+    timing: 'Mon – Sat, 9:00 AM – 7:30 PM',
     mapQuery: 'Child Learning Centre Thane Teen Hath Naka Thane West Maharashtra'
   },
   {
@@ -26,7 +26,7 @@
     area: 'Mumbai',
     address: 'Central Avenue Road, Chembur, Mumbai',
     phone: '+91 90044 60650',
-    timing: 'Mon ΓÇô Sat, 9:00 AM ΓÇô 7:30 PM',
+    timing: 'Mon – Sat, 9:00 AM – 7:30 PM',
     mapQuery: 'Child Learning Centre Chembur Central Avenue Road Mumbai'
   },
   {
@@ -36,7 +36,7 @@
     area: 'Navi Mumbai',
     address: 'Sector 17, Vashi, Navi Mumbai',
     phone: '+91 90044 60650',
-    timing: 'Mon ΓÇô Sat, 9:00 AM ΓÇô 7:30 PM',
+    timing: 'Mon – Sat, 9:00 AM – 7:30 PM',
     mapQuery: 'Child Learning Centre Sector 17 Vashi Navi Mumbai'
   },
   {
@@ -46,7 +46,7 @@
     area: 'Nagpur',
     address: 'Ramdaspeth, Nagpur, Maharashtra',
     phone: '+91 90044 60650',
-    timing: 'Mon ΓÇô Sat, 9:00 AM ΓÇô 7:30 PM',
+    timing: 'Mon – Sat, 9:00 AM – 7:30 PM',
     mapQuery: 'Child Learning Centre Ramdaspeth Nagpur Maharashtra'
   },
   {
@@ -56,7 +56,7 @@
     area: 'Nashik',
     address: 'College Road, Nashik, Maharashtra',
     phone: '+91 90044 60650',
-    timing: 'Mon ΓÇô Sat, 9:00 AM ΓÇô 7:30 PM',
+    timing: 'Mon – Sat, 9:00 AM – 7:30 PM',
     mapQuery: 'Child Learning Centre College Road Nashik Maharashtra'
   }
 ];

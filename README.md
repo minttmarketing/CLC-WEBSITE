@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Child Learning Centre (CLC) - React Web Application
 
 Modern, responsive, multipage React.js web application for **Child Learning Centre (CLC)** — Pediatric Development & Clinical Therapy Clinics across Maharashtra (Nerul, Thane, Chembur, Vashi, Nagpur, Nashik).
@@ -36,7 +35,6 @@ Clc-Website/
 ├── public/
 │   └── assets/                     # Static assets (centre, logo, services, team images)
 ├── src/
-│   ├── assets/                     # Modular assets
 │   ├── components/
 │   │   ├── common/
 │   │   │   ├── BookingModal.jsx    # Pop-up consultation modal
@@ -110,6 +108,3 @@ Creates an optimized, production-ready build in the `dist/` directory.
 ```bash
 npm run preview
 ```
-=======
-# CLC-WEBSITE
->>>>>>> b562ee095b875efc50b33f0c2237bb6d0615caec

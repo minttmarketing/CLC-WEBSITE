@@ -16,7 +16,7 @@ export default function ServicesPage() {
             </span>
             <h1 className="h2 mb-3">Evidence-based pediatric therapies tailored to your child</h1>
             <p className="lead text-muted">
-              Each programme is led by certified, experienced clinicians who adapt exercises to your childΓÇÖs unique rhythm, goals, and sensory profile.
+              Each programme is led by certified, experienced clinicians who adapt exercises to your child’s unique rhythm, goals, and sensory profile.
             </p>
           </div>
         </div>
